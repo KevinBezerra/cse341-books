@@ -13,7 +13,8 @@
   },
   "dependencies": {
     "express": "*",
-    "mongodb": "^7.6.0"
+    "mongodb": "^7.6.0",
+    "swagger-ui-express": "^5.0.1"
   },
   "devDependencies": {
     "eslint": "*",
